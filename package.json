@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/juanval.svelte-l9qzkqkj",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Hr1iihcGGEYkfCZp8ZsU --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
